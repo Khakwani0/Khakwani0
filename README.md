@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Khakwani0
-- 👀 I’m interested in DevOp's
-- 🌱 I’m currently learning DevOp's Course
+- 👋 Hi, I’m Mustafa Khakwani
+- 👀 I’m interested in DevOps Engeering
+- 🌱 I’m currently learning DevOp's Course which have 8 phases, And I completed first phase "Code" through Git
 - 💞️ I’m looking to collaborate with someone who help me to grow and in return I'll give that person my Loyalty
 - 📫 How to reach me through my Email: mustafakhakwani600@gmail.com
 
